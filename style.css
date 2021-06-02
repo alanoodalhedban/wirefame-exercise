@@ -50,9 +50,11 @@ article{
    right:600px;
    margin-top:100px;
 }
-article img{
+article button{
     width: 200px;
     height: 50px;
+    background-color: black;
+    color:blanchedalmond
  
 }
 footer p{

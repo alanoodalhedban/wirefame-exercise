@@ -54,7 +54,8 @@ article button{
     width: 200px;
     height: 50px;
     background-color: black;
-    color:blanchedalmond
+    color:blanchedalmond;
+    overflow: scroll;
  
 }
 footer p{
